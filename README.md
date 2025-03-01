@@ -28,7 +28,8 @@ Losses by State
 States with Highest Losses: Maharashtra (-9.4K) and Madhya Pradesh (-7.0K) faced the highest losses.
 Losses by Category
 Major Loss Categories: Clothing, Electronics, and Furniture each had substantial losses, contributing to a total loss of -38K.
-Outcomes and Recommendations
+
+Outcomes and Recommendations 
 1.Target - High-Profit Periods: Focus on maximizing sales during peak profit months (January, October, and December) by planning promotions and inventory accordingly.
 2. Optimize Sub-Categories: Continue to invest in and promote high-profit sub-categories like Printers, Bookcases, and Sarees.
 3. Expand Clothing Sales: Given its high volume, explore ways to increase profitability within the Clothing category, potentially by introducing higher-margin products.
